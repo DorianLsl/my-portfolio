@@ -14,12 +14,22 @@ const Footer = (props) => (
         </a>
       </li>
       <li>
-        <a href="https://linkedin.com/" className="icon fa-linkedin">
+        <a
+          href="https://www.linkedin.com/in/dorian-lansel"
+          className="icon fa-linkedin"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <span className="label">LinkedIn</span>
         </a>
       </li>
       <li>
-        <a href="https://github.com/dorianlsl" className="icon fa-github">
+        <a
+          href="https://github.com/dorianlsl"
+          className="icon fa-github"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <span className="label">GitHub</span>
         </a>
       </li>
