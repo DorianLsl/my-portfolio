@@ -28,15 +28,6 @@ const Header = (props) => (
             Qui suis-je ?
           </button>
         </li>
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('work')
-            }}
-          >
-            Mes Projets
-          </button>
-        </li>
       </ul>
     </nav>
   </header>
